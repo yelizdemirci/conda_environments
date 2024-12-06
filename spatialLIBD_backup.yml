@@ -1,0 +1,6 @@
+name: /nfs/team283/yd2/software/my_miniconda3/envs/spatialLIBD
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+prefix: /nfs/team283/yd2/software/my_miniconda3/envs/spatialLIBD
